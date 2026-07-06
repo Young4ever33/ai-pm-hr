@@ -1,0 +1,26 @@
+# OS / editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Codex/runtime caches
+.codex/
+.agents/
+*.log
+
+# Generated user outputs
+output/
+exports/
+generated/
+*.docx
+*.xlsx
+*.pptx
+*.pdf
+
+# Personal/private job-search data
+*投递记录*
+*求职进程*
+*简历*.docx
+*简历*.pdf
