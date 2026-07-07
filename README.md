@@ -104,5 +104,3 @@ Before publishing publicly:
 ## License
 
 MIT License. See `LICENSE`.
-
-Update README capabilities
