@@ -1,4 +1,4 @@
-﻿# AI PM-HR Skill
+# AI PM-HR Skill
 
 AI PM-HR is a Codex skill for people transitioning into AI/AIGC product manager roles. It helps with candidate profiling, JD matching, resume repositioning, outreach messaging, interview training, and job-search progress tracking.
 
@@ -8,6 +8,7 @@ AI PM-HR is a Codex skill for people transitioning into AI/AIGC product manager 
 - Reviews AI PM/AIGC PM JD text and company context.
 - Scores resume-job fit and finds gaps.
 - Rewrites experience into AI product manager language.
+- Helps revise resumes, project descriptions, portfolios, and personal websites so they better demonstrate AI product thinking and transferable experience.
 - Generates concise HR outreach and reply suggestions.
 - Creates interview questions, answer frameworks, and mock interview scoring.
 - Supports data-driven job search tracking through CSV/Excel-style templates.
@@ -103,3 +104,5 @@ Before publishing publicly:
 ## License
 
 MIT License. See `LICENSE`.
+
+Update README capabilities
